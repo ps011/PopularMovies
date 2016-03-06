@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string-array name="sort_by">
+        <item>Popularity</item>
+        <item>Release Date</item>
+        <item>Name</item>
+        <item>Rating</item>
+    </string-array>
+    <string-array name="sort_by_values">
+        <item>popularity</item>
+        <item>release_date</item>
+        <item>title</item>
+        <item>vote_average</item>
+    </string-array>
+</resources>
